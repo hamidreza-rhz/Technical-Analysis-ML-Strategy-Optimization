@@ -11,8 +11,7 @@ The project aims to optimize trading strategies using a combination of machine l
 - `data/`: Contains the necessary data files for backtesting and training the trading models.
 - `models/`: Contains the implementation of machine learning models used for trading strategy optimization.
 - `strategies/`: Contains the implementation of technical analysis strategies and their combination with machine learning models.
-- `results/`: Contains the performance evaluation results, including backtest reports and visualizations.
-- `utils/`: Contains utility functions and helper modules for data preprocessing and analysis.
+- `main/`: Contains all the different parts put together (you only need to run this file)
 
 ## Acknowledgments
 We would like to acknowledge the authors of the paper "Technical analysis strategy optimization using a machine learning approach in stock market indices" for their valuable research and contributions.
