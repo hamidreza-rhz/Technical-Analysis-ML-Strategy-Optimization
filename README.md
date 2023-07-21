@@ -10,7 +10,7 @@ The project aims to optimize trading strategies using a combination of machine l
 
 - `data/`: Contains the necessary data files for backtesting and training the trading models.
 - `models/`: Contains the implementation of machine learning models used for trading strategy optimization.
-- `strategies/`: Contains the implementation of technical analysis strategies and their combination with machine learning models.
+- `strategies/`: Contains the implementation of technical analysis strategies and their results
 - `main/`: Contains all the different parts put together (you only need to run this file)
 
 ## Acknowledgments
